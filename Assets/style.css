@@ -9,12 +9,12 @@ ul {
     justify-content: flex-end;
     margin: 0 auto;
     border: 1px solid red;
-    
-
 }
+
 li {
     margin: 0 5px 0 5px;
 }
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -25,6 +25,10 @@ li {
 header {
     font-size: 50px;
     
+}
+h2 .subtitle {
+    display: flex;
+    justify-content: flex-end;
 }
 p {
 
