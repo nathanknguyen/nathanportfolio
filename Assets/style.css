@@ -40,3 +40,6 @@ p {
     font-size: large;
 }
 
+img {
+    max-width: 400px;
+}
