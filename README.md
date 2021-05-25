@@ -9,4 +9,4 @@ Here is a screenshot and a link to the deployed application. .......
 
 URL for deployed application: https://nathanknguyen.github.io/nathanportfolio
 
-![picture of website](/Assets/images/portfolio.png "screenshot of page")
+![picture of website](/images/portfolio.png "screenshot of page")
